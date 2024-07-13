@@ -19,6 +19,8 @@ body {
 body p {
     font-family: var(--font-secundaria);
     padding: 0;
+    font-size: 1.1em;
+
 
 }
 body h2 {
@@ -174,7 +176,7 @@ header {
 }
 .lovestory .text {
     padding: 20px 20px;
-    font-size: 1em;
+    font-size: 1.1em;
     max-width: 500PX;
     margin: auto;
     background-color: rgba(246, 243, 239, 0.7); /* Convierte el color hexadecimal a valores numéricos y ajusta la transparencia */
@@ -207,7 +209,7 @@ header {
 }
 .ubicacion-bloque p {
     padding:10px 40px 30px 40px;
-    font-size: 1em;
+    font-size: 1.1em;
     max-width: 400px;
     margin: auto;
 }
@@ -245,7 +247,7 @@ header {
 }
 .dresscode p {
     padding:6px 40px 6px 40px;
-    font-size: 1em;
+    font-size: 1.1em;
     margin: 0 0 10px 0;
 }
 .palette {
